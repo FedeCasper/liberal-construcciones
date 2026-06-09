@@ -1,0 +1,8 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#0F172A" />
+  <path d="M180 220H580V620H180V220Z" fill="#F8FAFC" opacity="0.14" />
+  <path d="M680 160H1080V560H680V160Z" fill="#F8FAFC" opacity="0.2" />
+  <line x1="200" y1="240" x2="560" y2="240" stroke="#F59E0B" stroke-width="16" />
+  <line x1="700" y1="180" x2="1040" y2="180" stroke="#F59E0B" stroke-width="16" />
+  <text x="100" y="740" font-family="Inter, Arial, sans-serif" font-size="52" fill="#F8FAFC">Retail</text>
+</svg>

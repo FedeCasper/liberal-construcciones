@@ -1,0 +1,7 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#111827" />
+  <rect x="120" y="180" width="360" height="520" rx="32" fill="#F8FAFC" opacity="0.16" />
+  <rect x="520" y="240" width="520" height="420" rx="40" fill="#F8FAFC" opacity="0.12" />
+  <path d="M120 640H720V700H120V640Z" fill="#F59E0B" opacity="0.9" />
+  <text x="100" y="740" font-family="Inter, Arial, sans-serif" font-size="52" fill="#F8FAFC">Residencial</text>
+</svg>

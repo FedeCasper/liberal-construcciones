@@ -1,9 +1,8 @@
-import { defineConfig } from "eslint/config";
-
-export default defineConfig({
+module.exports = {
   env: {
     browser: true,
     es2024: true,
+    node: true,
   },
   extends: ["eslint:recommended", "plugin:react/recommended", "plugin:react-hooks/recommended"],
   parserOptions: {
@@ -21,6 +20,8 @@ export default defineConfig({
   rules: {
     "react/react-in-jsx-scope": "off",
     "react/jsx-uses-react": "off",
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "warn",
   },
   ignorePatterns: [".next/**", "out/**", "build/**", "next-env.d.ts"],
-});
+};

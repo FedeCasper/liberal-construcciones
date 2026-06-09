@@ -1,0 +1,6 @@
+<svg width="400" height="120" viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="120" rx="24" fill="#111827" />
+  <path d="M80 80C96.5685 80 110 66.5685 110 50C110 33.4315 96.5685 20 80 20C63.4315 20 50 33.4315 50 50C50 66.5685 63.4315 80 80 80Z" fill="#F59E0B" />
+  <path d="M130 35H165L185 55L205 35H240V85H205L185 65L165 85H130V35Z" fill="#F8FAFC" />
+  <text x="260" y="72" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">Tera</text>
+</svg>
